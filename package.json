@@ -1,0 +1,25 @@
+{
+  "name": "gulp-anti-cache",
+  "version": "1.0.0",
+  "description": "Gulp插件，给HTML中的静态资源url加随机参数以突破缓存。",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miclay/gulp-anti-cache"
+  },
+  "keywords": [
+    "nocache",
+    "cache",
+    "anti-cache",
+    "gulp"
+  ],
+  "author": "miclay",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/miclay/gulp-anti-cache/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

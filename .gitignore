@@ -1,0 +1,23 @@
+##### user ######
+node_modules/
+
+##### system ######
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+
+##### IDE ######
+.project
+.settings
+.idea
+.idea/
+
+##### Packages ######
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
